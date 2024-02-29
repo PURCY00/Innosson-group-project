@@ -35,6 +35,19 @@ main p{
     font-family: "Noto sans", sans-serif;
     font-weight: 500;
 }
+
+/* section-1 */
+.section-1{
+    background: rgba(54, 95, 163, 1);
+    font-weight: 600;
+    height: 6rem;
+    font-family: "Noto sans", sans-serif;
+    color: rgb(255,255,255,1);
+}
+/* section-2 */
+.section-2{
+    background-color: rgb(254, 254, 254);
+}
 @media(max-width: 475px){
     main p{
         width: 100%;
@@ -50,4 +63,10 @@ main p{
     main h2 {
         width: 30%;
     }
+    .section-1 h3{
+        width: 45%;
+        margin: auto;
+    }
 }
+
+
