@@ -48,6 +48,53 @@ main p{
 .section-2{
     background-color: rgb(254, 254, 254);
 }
+.section-2 h2{
+    color: rgba(54, 95, 163, 1)
+}
+.section-3{
+    background-color: rgb(254, 254, 254);
+}
+.section-3 h2{
+    color: rgba(54, 95, 163, 1)
+}
+.section-4{
+    background-color: rgb(254, 254, 254);
+}
+.section-4 h2{
+    color: rgba(54, 95, 163, 1);
+}
+
+.section-5{
+    background-color: rgb(254, 254, 254);
+}
+.section-5 h2{
+    color: rgba(54, 95, 163, 1);
+}
+
+.section-2 button{
+    background: rgba(56, 214, 158, 1);
+    color: rgba(247, 247, 247, 1);
+    font-family: "Noto sans", sans-serif;
+    font-weight: 600;
+}
+
+.section-6{
+        background-image:url(assets/istockphoto-537311780-612x612\ 1.png) ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 30rem;
+        color: rgba(247, 247, 247, 1);
+    }
+
+.section-6 h1{
+    font-family: "Noto sans", sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    text-decoration: rgba(193, 187, 187, 1);
+    height: 82px;
+
+}
 @media(max-width: 475px){
     main p{
         width: 100%;
